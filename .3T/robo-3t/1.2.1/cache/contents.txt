@@ -1,0 +1,42 @@
+Welcome to Robo 3T 1.2
+<br/>
+We are very happy to announce the release of Robo 3T 1.2.<br/>
+<br/>
+
+<style type="text/css">
+   a { text-decoration:none; }
+</style>  
+
+<b>What's new in this release:</b><br/><br/>
+
+Bug Fixes:<br/>     
+  &mdash; Big double numbers are showing incorrectly
+  <a style="color: #106CD6;" href="https://github.com/Studio3T/robomongo/issues/1447">(#1447)</a>
+  <br/>
+  &mdash; Aggregate query results are not pagaeble
+  <a style="color: #106CD6;" href="https://github.com/Studio3T/robomongo/issues/1058">(#1058)</a>
+  <br/>
+  &mdash; Editing a document from a projection causes data override/loss
+  <a style="color: #106CD6;" href="https://github.com/Studio3T/robomongo/issues/881">(#881)</a>
+  <br/>  
+  &mdash; Error when starting up SSH session
+  <a style="color: #106CD6;" href="https://github.com/Studio3T/robomongo/issues/1189">(#1189)</a>
+  <br/>  
+  &mdash; Robo 3T 1.1 fails to start on Ubuntu 17.XX
+  <a style="color: #106CD6;" href="https://github.com/Studio3T/robomongo/issues/1385">(#1385)</a>
+  <br/>  
+  &mdash; Robo 3T is not opening on MacOS High Sierra
+  <a style="color: #106CD6;" href="https://github.com/Studio3T/robomongo/issues/1412">(#1412)</a>
+  <br/>  
+  &mdash; Cannot load list of indexes
+  <a style="color: #106CD6;" href="https://github.com/Studio3T/robomongo/issues/1454">(#1454)</a>
+  <br/>                 
+  
+<br/> 
+  
+Improvements:<br/> 
+  &mdash; Qt version upgraded from Qt 5.7.0 to Qt 5.9.3<br/>
+  &mdash; Auto switch to HTTP from HTTPS feature <br/>
+  &mdash; Robo 3T is not buildable on latest MacOS High Sierra <br/>
+<br/>
+<a style="color: #106CD6;" href="http://blog.robomongo.org/robo-3t-1-2/">Read more online...</a>

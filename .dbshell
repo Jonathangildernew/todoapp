@@ -1,0 +1,13 @@
+show dbs
+use nodeapp
+db.createCollection('articles');
+show collections
+db.createCollection('articles');
+show collections
+db.articles.insert({title:'Article One',author:'Jonathan',body:'this is article one'});
+db.articles.find
+db.articles.find();
+db.articles.insert({title:'Article Two',author:'Jon Doe',body:'this is article two'});
+db.articles.find();
+db.articles.find().pretty();
+db.articles.insert({title:'Article Three',author:'Jonathan Gildernew',body:'this is article three'});
